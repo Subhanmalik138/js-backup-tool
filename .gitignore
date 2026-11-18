@@ -1,0 +1,4 @@
+node_modules/
+.snapback/
+*.log
+.DS_Store
